@@ -1,0 +1,28 @@
+.color-main-convert {
+    color: #dc8118;
+}
+
+.section-title {
+    background-image: url(../images/convert/header-icon-orange.png);
+    margin-top: 22px;
+}
+
+.paging-item.current {
+    background-color: #dc8118;
+}
+
+.paging-item:hover {
+    background-color: #dc8118;
+}
+
+.col.l-3 main.sect-body.pl-5 {
+    height: auto;
+}
+
+.hover-main-convert:hover {
+    color: #dc8118;
+}
+
+.paga-content-newupdate a:hover {
+    color: #dc8118;
+}
