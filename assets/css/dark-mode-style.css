@@ -122,3 +122,21 @@ a.heading-paga {
 .subnav--list {
     background-color: #000;
 }
+
+.footer__heaading {
+    color: #fff;
+}
+
+.footer-item__link {
+    color: #fff;
+}
+
+.footer__download-app-img {
+    background-color: #fff;
+    padding-right: 4px;
+    padding-left: 2px;
+}
+
+.footee__bottom {
+    background-color: transparent;
+}

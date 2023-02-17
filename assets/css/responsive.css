@@ -31,6 +31,10 @@
     .m-t-12-m-c {
         margin-top: 12px;
     }
+
+    .support-footer-m-c {
+        margin-top: 16px;
+    }
 }
 
 /* Tablet */
@@ -66,7 +70,7 @@
     }
 
     .footer-info {
-        margin: 0 50px;
+        margin: 0 52px;
     }
 
     
@@ -176,7 +180,7 @@
     }
 
     .footer-info {
-        margin: 0;
+        margin: 0 52px;
         display: flex;
         color: white;
         justify-content: center;
@@ -205,6 +209,19 @@
 
     .paga-content-newupdate {
         margin-left: 6px;
+    }
+
+    .support-row-c {
+        padding-left: 80px;
+    }
+
+    .footer__download-app-link {
+        display: block;
+        padding: 2px 8px;
+    }
+
+    .support-footer-c {
+        margin-top: 16px;
     }
 }
 
